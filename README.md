@@ -1,7 +1,8 @@
-# Hi, I'm Parul Hadiyal! 👋
 
+# Hi, there! 👋
 ## 🚀 About Me
 I'm an IT Profession working in Ambuja Cemnet Foundation...
+# Hi, I'm Parul Hadiyal! 👋
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
