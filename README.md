@@ -1,5 +1,5 @@
 
-# Hi, there! 👋
+# Hi, there 👋
 ## 🚀 About Me
 I'm an IT Profession working in Ambuja Cemnet Foundation...
 # Hi, I'm Parul Hadiyal! 👋
@@ -9,7 +9,7 @@ I'm an IT Profession working in Ambuja Cemnet Foundation...
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parul-hadiyal-3103492a7/)
 
-## Other Common Github Profile Sections
+
 
 
 ## 🛠 Skills
